@@ -1,5 +1,33 @@
 ```mermaid
-mindmap root((Platform Choice Dynamics)) Strategic Management Prefers Fabric Goals Reduce complexity Improve governance and compliance Reduce cost and risk Increase speed and accountability Outcomes Fewer moving parts Less need for infra and ops teams Consolidated vendor and platform Higher organizational efficiency Middle Management Prefers Apache Goals Preserve headcount Preserve technical territory Preserve team budgets Preserve perceived indispensability Outcomes More components and integrations More need for specialists and ops Higher ongoing complexity Greater role protection for middle layer
+mindmap
+  root((Platform Choice Dynamics))
+
+    Strategic Management
+      Prefers Fabric
+      Goals
+        Reduce complexity
+        Improve governance and compliance
+        Reduce cost and risk
+        Increase speed and accountability
+      Outcomes
+        Fewer moving parts
+        Less need for infra and ops teams
+        Consolidated vendor and platform
+        Higher organizational efficiency
+
+    Middle Management
+      Prefers Apache
+      Goals
+        Preserve headcount
+        Preserve technical territory
+        Preserve team budgets
+        Preserve indispensability
+      Outcomes
+        More components and integrations
+        More need for specialists and ops
+        Higher ongoing complexity
+        Greater role protection for middle layer
+
 ```
 
 ```mermaid
