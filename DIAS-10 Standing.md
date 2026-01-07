@@ -1,7 +1,7 @@
 DAIS‑10 is not a competitor to Apache or Fabric.
 It’s not a “third platform,” and it’s not meant to enter a technology battle.
 
-DAIS‑10 sits above the battlefield.
+DAIS‑10 sits on the side on higher ground to observe above the battlefield.
 
 🧩 Why DAIS‑10 Should NOT Be Put in the Same Arena as Apache or Fabric
 
