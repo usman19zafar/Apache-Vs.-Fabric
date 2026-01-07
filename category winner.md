@@ -1,10 +1,10 @@
-```mermid
-Category	Winner	Reason
-Software Cost	Apache	Free OSS
-Infrastructure Cost	Fabric	Serverless, no clusters
-Ops Cost	Fabric	No SRE/DevOps burden
-Integration Cost	Fabric	Fully unified
-Scalability Cost	Fabric	Autoscaling, consumption‑based
-Customization Cost	Apache	Full control, no SaaS limits
-TCO for Most Enterprises	Fabric	Lower total cost + lower friction
+```mermaid
+flowchart TB
+    A[Category] --- B[Winner] --- C[Reason]
+
+    D1[Software Cost] --> D2[Apache] --> D3[Free OSS]
+    E1[Infrastructure Cost] --> E2[Fabric] --> E3[Serverless no clusters]
+    F1[Ops Cost] --> F2[Fabric] --> F3[No SRE DevOps burden]
+    G1[Integration Cost] --> G2[Fabric] --> G3[Fully unified]
+    H1[Scalability Cost] --> H2[Fabric] --> H
 ```
