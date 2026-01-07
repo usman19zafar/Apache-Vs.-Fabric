@@ -1,0 +1,2 @@
+Discussion Disclaimer
+This conversation reflects an exploratory exchange between an individual and an AI companion, focused solely on understanding concepts, comparing technologies, and clarifying ideas based on the individual’s stated preferences and learning goals. The discussion is not intended to criticize, diminish, or negatively influence the reputation of any brand, product, organization, or technology. All comparisons are conceptual, educational, and context‑dependent, and should not be interpreted as formal recommendations or endorsements.
